@@ -1,0 +1,6 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "pwa_test_apk",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}

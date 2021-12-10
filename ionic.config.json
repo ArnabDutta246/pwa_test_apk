@@ -1,0 +1,7 @@
+{
+  "name": "pwa_test_apk",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
