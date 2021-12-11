@@ -1,8 +1,8 @@
 {
   "name": "pwa_test_apk",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "author": "Ionic Framework",
-  "homepage": "https://arnabdutta246.github.io/pwa_test_apk",
+  "homepage": "https://arnabdutta246.github.io/pwa_test_apk/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
